@@ -1,0 +1,757 @@
+2020-02-19/16:48:07		Start of Validation on files for prediction!!
+2020-02-19/16:48:59		Raw Data Validation Complete!!
+2020-02-19/16:49:00		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-02-19/16:49:29		Table creation Completed!!
+2020-02-19/16:49:30		Insertion of Data into Table started!!!!
+2020-02-19/16:50:16		Insertion in Table completed!!!
+2020-02-19/16:50:16		Deleting Good Data Folder!!!
+2020-02-19/16:50:17		Good_Data folder deleted!!!
+2020-02-19/16:50:17		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-19/16:50:17		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-19/16:50:17		Validation Operation completed!!
+2020-02-19/16:50:18		Extracting csv file from table
+2020-02-19/16:50:25		Start of Prediction
+2020-02-19/16:50:26		Entered the get_data method of the Data_Getter class
+2020-02-19/16:50:26		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-19/16:50:28		Entered the is_null_present method of the Preprocessor class
+2020-02-19/16:50:28		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-19/16:50:36		Entered the load_model method of the File_Operation class
+2020-02-19/16:50:36		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-19/16:50:51		Entered the find_correct_model_file method of the File_Operation class
+2020-02-19/16:50:51		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-19/16:50:51		Entered the load_model method of the File_Operation class
+2020-02-19/16:50:51		Model File RandomForestRegressor2 loaded. Exited the load_model method of the Model_Finder class
+2020-02-19/16:51:18		End of Prediction
+2020-02-19/16:59:09		Start of Validation on files for prediction!!
+2020-02-19/16:59:09		Raw Data Validation Complete!!
+2020-02-19/16:59:09		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-02-19/16:59:09		Table creation Completed!!
+2020-02-19/16:59:09		Insertion of Data into Table started!!!!
+2020-02-19/16:59:20		Insertion in Table completed!!!
+2020-02-19/16:59:20		Deleting Good Data Folder!!!
+2020-02-19/16:59:20		Good_Data folder deleted!!!
+2020-02-19/16:59:20		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-19/16:59:20		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-19/16:59:20		Validation Operation completed!!
+2020-02-19/16:59:20		Extracting csv file from table
+2020-02-19/16:59:20		Start of Prediction
+2020-02-19/16:59:20		Entered the get_data method of the Data_Getter class
+2020-02-19/16:59:20		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-19/16:59:20		Entered the is_null_present method of the Preprocessor class
+2020-02-19/16:59:20		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-19/16:59:20		Entered the load_model method of the File_Operation class
+2020-02-19/16:59:20		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-19/16:59:20		Entered the find_correct_model_file method of the File_Operation class
+2020-02-19/16:59:20		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-19/16:59:20		Entered the load_model method of the File_Operation class
+2020-02-19/16:59:20		Model File RandomForestRegressor2 loaded. Exited the load_model method of the Model_Finder class
+2020-02-19/16:59:20		End of Prediction
+2020-04-14/15:08:11		Start of Prediction
+2020-04-14/15:08:11		Entered the get_data method of the Data_Getter class
+2020-04-14/15:08:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-04-14/15:08:11		Entered the is_null_present method of the Preprocessor class
+2020-04-14/15:08:11		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-04-14/15:08:11		Entered the load_model method of the File_Operation class
+2020-04-14/15:08:11		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-04-14/15:08:11		Entered the find_correct_model_file method of the File_Operation class
+2020-04-14/15:08:11		Exited the find_correct_model_file method of the Model_Finder class.
+2020-04-14/15:08:11		Entered the load_model method of the File_Operation class
+2020-04-14/15:08:11		Model File RandomForestRegressor2 loaded. Exited the load_model method of the Model_Finder class
+2020-04-14/15:08:11		End of Prediction
+2025-04-13/12:03:09		Start of Validation on files for prediction!!
+2025-04-13/12:03:09		Raw Data Validation Complete!!
+2025-04-13/12:03:09		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/12:03:09		Table creation Completed!!
+2025-04-13/12:03:09		Insertion of Data into Table started!!!!
+2025-04-13/12:03:10		Insertion in Table completed!!!
+2025-04-13/12:03:10		Deleting Good Data Folder!!!
+2025-04-13/12:03:10		Good_Data folder deleted!!!
+2025-04-13/12:03:10		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/12:03:10		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/12:03:10		Validation Operation completed!!
+2025-04-13/12:03:10		Extracting csv file from table
+2025-04-13/12:03:10		Start of Prediction
+2025-04-13/12:03:10		Entered the get_data method of the Data_Getter class
+2025-04-13/12:03:10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/12:03:10		Entered the is_null_present method of the Preprocessor class
+2025-04-13/12:03:10		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/12:03:10		Entered the load_model method of the File_Operation class
+2025-04-13/12:03:10		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/12:03:10		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
+2025-04-13/12:14:39		Start of Validation on files for prediction!!
+2025-04-13/12:14:39		Raw Data Validation Complete!!
+2025-04-13/12:14:39		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/12:14:39		Table creation Completed!!
+2025-04-13/12:14:39		Insertion of Data into Table started!!!!
+2025-04-13/12:14:39		Insertion in Table completed!!!
+2025-04-13/12:14:39		Deleting Good Data Folder!!!
+2025-04-13/12:14:39		Good_Data folder deleted!!!
+2025-04-13/12:14:39		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/12:14:39		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/12:14:39		Validation Operation completed!!
+2025-04-13/12:14:39		Extracting csv file from table
+2025-04-13/12:14:39		Start of Prediction
+2025-04-13/12:14:39		Entered the get_data method of the Data_Getter class
+2025-04-13/12:14:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/12:14:39		Entered the is_null_present method of the Preprocessor class
+2025-04-13/12:14:39		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/12:14:39		Entered the load_model method of the File_Operation class
+2025-04-13/12:14:39		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/12:14:39		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
+2025-04-13/12:14:40		Start of Validation on files for prediction!!
+2025-04-13/12:14:40		Raw Data Validation Complete!!
+2025-04-13/12:14:40		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/12:14:40		Table creation Completed!!
+2025-04-13/12:14:40		Insertion of Data into Table started!!!!
+2025-04-13/12:14:40		Insertion in Table completed!!!
+2025-04-13/12:14:40		Deleting Good Data Folder!!!
+2025-04-13/12:14:40		Good_Data folder deleted!!!
+2025-04-13/12:14:40		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/12:14:40		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/12:14:40		Validation Operation completed!!
+2025-04-13/12:14:40		Extracting csv file from table
+2025-04-13/12:14:40		Start of Prediction
+2025-04-13/12:14:40		Entered the get_data method of the Data_Getter class
+2025-04-13/12:14:40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/12:14:40		Entered the is_null_present method of the Preprocessor class
+2025-04-13/12:14:40		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/12:14:40		Entered the load_model method of the File_Operation class
+2025-04-13/12:14:40		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/12:14:40		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
+2025-04-13/12:14:40		Start of Validation on files for prediction!!
+2025-04-13/12:14:40		Raw Data Validation Complete!!
+2025-04-13/12:14:40		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/12:14:40		Table creation Completed!!
+2025-04-13/12:14:40		Insertion of Data into Table started!!!!
+2025-04-13/12:14:40		Insertion in Table completed!!!
+2025-04-13/12:14:40		Deleting Good Data Folder!!!
+2025-04-13/12:14:40		Good_Data folder deleted!!!
+2025-04-13/12:14:40		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/12:14:40		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/12:14:40		Validation Operation completed!!
+2025-04-13/12:14:40		Extracting csv file from table
+2025-04-13/12:14:40		Start of Prediction
+2025-04-13/12:14:40		Entered the get_data method of the Data_Getter class
+2025-04-13/12:14:40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/12:14:40		Entered the is_null_present method of the Preprocessor class
+2025-04-13/12:14:40		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/12:14:40		Entered the load_model method of the File_Operation class
+2025-04-13/12:14:40		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/12:14:40		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
+2025-04-13/12:14:41		Start of Validation on files for prediction!!
+2025-04-13/12:14:41		Raw Data Validation Complete!!
+2025-04-13/12:14:41		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/12:14:41		Table creation Completed!!
+2025-04-13/12:14:41		Insertion of Data into Table started!!!!
+2025-04-13/12:14:41		Insertion in Table completed!!!
+2025-04-13/12:14:41		Deleting Good Data Folder!!!
+2025-04-13/12:14:41		Good_Data folder deleted!!!
+2025-04-13/12:14:41		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/12:14:41		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/12:14:41		Validation Operation completed!!
+2025-04-13/12:14:41		Extracting csv file from table
+2025-04-13/12:14:41		Start of Prediction
+2025-04-13/12:14:41		Entered the get_data method of the Data_Getter class
+2025-04-13/12:14:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/12:14:41		Entered the is_null_present method of the Preprocessor class
+2025-04-13/12:14:41		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/12:14:41		Entered the load_model method of the File_Operation class
+2025-04-13/12:14:41		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/12:14:41		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
+2025-04-13/12:14:41		Start of Validation on files for prediction!!
+2025-04-13/12:14:41		Raw Data Validation Complete!!
+2025-04-13/12:14:41		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/12:14:41		Table creation Completed!!
+2025-04-13/12:14:41		Insertion of Data into Table started!!!!
+2025-04-13/12:14:41		Insertion in Table completed!!!
+2025-04-13/12:14:41		Deleting Good Data Folder!!!
+2025-04-13/12:14:41		Good_Data folder deleted!!!
+2025-04-13/12:14:41		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/12:14:41		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/12:14:41		Validation Operation completed!!
+2025-04-13/12:14:41		Extracting csv file from table
+2025-04-13/12:14:41		Start of Prediction
+2025-04-13/12:14:41		Entered the get_data method of the Data_Getter class
+2025-04-13/12:14:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/12:14:41		Entered the is_null_present method of the Preprocessor class
+2025-04-13/12:14:41		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/12:14:41		Entered the load_model method of the File_Operation class
+2025-04-13/12:14:41		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/12:14:41		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
+2025-04-13/12:14:47		Start of Validation on files for prediction!!
+2025-04-13/12:14:47		Raw Data Validation Complete!!
+2025-04-13/12:14:47		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/12:14:47		Table creation Completed!!
+2025-04-13/12:14:47		Insertion of Data into Table started!!!!
+2025-04-13/12:14:47		Insertion in Table completed!!!
+2025-04-13/12:14:47		Deleting Good Data Folder!!!
+2025-04-13/12:14:47		Good_Data folder deleted!!!
+2025-04-13/12:14:47		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/12:14:47		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/12:14:47		Validation Operation completed!!
+2025-04-13/12:14:47		Extracting csv file from table
+2025-04-13/12:14:47		Start of Prediction
+2025-04-13/12:14:47		Entered the get_data method of the Data_Getter class
+2025-04-13/12:14:47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/12:14:47		Entered the is_null_present method of the Preprocessor class
+2025-04-13/12:14:47		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/12:14:47		Entered the load_model method of the File_Operation class
+2025-04-13/12:14:47		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/12:14:47		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
+2025-04-13/12:14:48		Start of Validation on files for prediction!!
+2025-04-13/12:14:48		Raw Data Validation Complete!!
+2025-04-13/12:14:48		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/12:14:48		Table creation Completed!!
+2025-04-13/12:14:48		Insertion of Data into Table started!!!!
+2025-04-13/12:14:48		Insertion in Table completed!!!
+2025-04-13/12:14:48		Deleting Good Data Folder!!!
+2025-04-13/12:14:48		Good_Data folder deleted!!!
+2025-04-13/12:14:48		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/12:14:48		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/12:14:48		Validation Operation completed!!
+2025-04-13/12:14:48		Extracting csv file from table
+2025-04-13/12:14:48		Start of Prediction
+2025-04-13/12:14:48		Entered the get_data method of the Data_Getter class
+2025-04-13/12:14:48		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/12:14:48		Entered the is_null_present method of the Preprocessor class
+2025-04-13/12:14:48		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/12:14:48		Entered the load_model method of the File_Operation class
+2025-04-13/12:14:48		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/12:14:48		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
+2025-04-13/12:18:16		Start of Validation on files for prediction!!
+2025-04-13/12:18:16		Raw Data Validation Complete!!
+2025-04-13/12:18:16		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/12:18:16		Table creation Completed!!
+2025-04-13/12:18:16		Insertion of Data into Table started!!!!
+2025-04-13/12:18:16		Insertion in Table completed!!!
+2025-04-13/12:18:16		Deleting Good Data Folder!!!
+2025-04-13/12:18:16		Good_Data folder deleted!!!
+2025-04-13/12:18:16		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/12:18:16		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/12:18:16		Validation Operation completed!!
+2025-04-13/12:18:16		Extracting csv file from table
+2025-04-13/12:18:16		Start of Prediction
+2025-04-13/12:18:16		Entered the get_data method of the Data_Getter class
+2025-04-13/12:18:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/12:18:16		Entered the is_null_present method of the Preprocessor class
+2025-04-13/12:18:16		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/12:18:16		Entered the load_model method of the File_Operation class
+2025-04-13/12:18:16		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/12:18:16		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
+2025-04-13/12:31:13		Start of Validation on files for prediction!!
+2025-04-13/12:31:13		Raw Data Validation Complete!!
+2025-04-13/12:31:13		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/12:31:13		Table creation Completed!!
+2025-04-13/12:31:13		Insertion of Data into Table started!!!!
+2025-04-13/12:31:13		Insertion in Table completed!!!
+2025-04-13/12:31:13		Deleting Good Data Folder!!!
+2025-04-13/12:31:13		Good_Data folder deleted!!!
+2025-04-13/12:31:13		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/12:31:13		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/12:31:13		Validation Operation completed!!
+2025-04-13/12:31:13		Extracting csv file from table
+2025-04-13/12:31:13		Start of Prediction
+2025-04-13/12:31:13		Entered the get_data method of the Data_Getter class
+2025-04-13/12:31:13		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/12:31:13		Entered the is_null_present method of the Preprocessor class
+2025-04-13/12:31:13		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/12:31:13		Entered the load_model method of the File_Operation class
+2025-04-13/12:31:13		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/12:31:13		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
+2025-04-13/12:51:18		Start of Validation on files for prediction!!
+2025-04-13/12:51:18		Raw Data Validation Complete!!
+2025-04-13/12:51:18		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/12:51:18		Table creation Completed!!
+2025-04-13/12:51:18		Insertion of Data into Table started!!!!
+2025-04-13/12:51:18		Insertion in Table completed!!!
+2025-04-13/12:51:18		Deleting Good Data Folder!!!
+2025-04-13/12:51:18		Good_Data folder deleted!!!
+2025-04-13/12:51:18		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/12:51:18		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/12:51:18		Validation Operation completed!!
+2025-04-13/12:51:18		Extracting csv file from table
+2025-04-13/12:51:18		Start of Prediction
+2025-04-13/12:51:18		Entered the get_data method of the Data_Getter class
+2025-04-13/12:51:18		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/12:51:18		Entered the is_null_present method of the Preprocessor class
+2025-04-13/12:51:18		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/12:51:18		Entered the load_model method of the File_Operation class
+2025-04-13/12:51:18		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/12:51:18		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
+2025-04-13/12:51:21		Start of Validation on files for prediction!!
+2025-04-13/12:51:21		Raw Data Validation Complete!!
+2025-04-13/12:51:21		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/12:51:21		Table creation Completed!!
+2025-04-13/12:51:21		Insertion of Data into Table started!!!!
+2025-04-13/12:51:21		Insertion in Table completed!!!
+2025-04-13/12:51:21		Deleting Good Data Folder!!!
+2025-04-13/12:51:21		Good_Data folder deleted!!!
+2025-04-13/12:51:21		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/12:51:21		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/12:51:21		Validation Operation completed!!
+2025-04-13/12:51:21		Extracting csv file from table
+2025-04-13/12:51:21		Start of Prediction
+2025-04-13/12:51:21		Entered the get_data method of the Data_Getter class
+2025-04-13/12:51:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/12:51:21		Entered the is_null_present method of the Preprocessor class
+2025-04-13/12:51:21		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/12:51:21		Entered the load_model method of the File_Operation class
+2025-04-13/12:51:21		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/12:51:21		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
+2025-04-13/12:51:22		Start of Validation on files for prediction!!
+2025-04-13/12:51:22		Raw Data Validation Complete!!
+2025-04-13/12:51:22		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/12:51:22		Table creation Completed!!
+2025-04-13/12:51:22		Insertion of Data into Table started!!!!
+2025-04-13/12:51:22		Insertion in Table completed!!!
+2025-04-13/12:51:22		Deleting Good Data Folder!!!
+2025-04-13/12:51:22		Good_Data folder deleted!!!
+2025-04-13/12:51:22		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/12:51:22		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/12:51:22		Validation Operation completed!!
+2025-04-13/12:51:22		Extracting csv file from table
+2025-04-13/12:51:22		Start of Prediction
+2025-04-13/12:51:22		Entered the get_data method of the Data_Getter class
+2025-04-13/12:51:22		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/12:51:22		Entered the is_null_present method of the Preprocessor class
+2025-04-13/12:51:22		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/12:51:22		Entered the load_model method of the File_Operation class
+2025-04-13/12:51:22		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/12:51:22		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
+2025-04-13/14:27:14		Start of Validation on files for prediction!!
+2025-04-13/14:27:14		Raw Data Validation Complete!!
+2025-04-13/14:27:14		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/14:27:14		Table creation Completed!!
+2025-04-13/14:27:14		Insertion of Data into Table started!!!!
+2025-04-13/14:27:14		Insertion in Table completed!!!
+2025-04-13/14:27:14		Deleting Good Data Folder!!!
+2025-04-13/14:27:14		Good_Data folder deleted!!!
+2025-04-13/14:27:14		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/14:27:14		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/14:27:14		Validation Operation completed!!
+2025-04-13/14:27:14		Extracting csv file from table
+2025-04-13/14:27:14		Start of Prediction
+2025-04-13/14:27:14		Entered the get_data method of the Data_Getter class
+2025-04-13/14:27:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/14:27:14		Entered the is_null_present method of the Preprocessor class
+2025-04-13/14:27:14		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/14:27:14		Entered the load_model method of the File_Operation class
+2025-04-13/14:27:14		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/14:27:14		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/14:27:14		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/14:27:14		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/14:27:14		Error occured while running the prediction!! Error:: 
+2025-04-13/16:14:50		Start of Validation on files for prediction!!
+2025-04-13/16:14:50		Raw Data Validation Complete!!
+2025-04-13/16:14:50		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/16:14:50		Table creation Completed!!
+2025-04-13/16:14:50		Insertion of Data into Table started!!!!
+2025-04-13/16:14:50		Insertion in Table completed!!!
+2025-04-13/16:14:50		Deleting Good Data Folder!!!
+2025-04-13/16:14:50		Good_Data folder deleted!!!
+2025-04-13/16:14:50		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/16:14:50		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/16:14:50		Validation Operation completed!!
+2025-04-13/16:14:50		Extracting csv file from table
+2025-04-13/16:14:50		Start of Prediction
+2025-04-13/16:14:50		Entered the get_data method of the Data_Getter class
+2025-04-13/16:14:50		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/16:14:50		Entered the is_null_present method of the Preprocessor class
+2025-04-13/16:14:50		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/16:14:50		Entered the load_model method of the File_Operation class
+2025-04-13/16:14:50		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/16:14:50		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/16:14:50		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/16:14:50		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/16:14:50		Error occured while running the prediction!! Error:: 
+2025-04-13/16:15:06		Start of Validation on files for prediction!!
+2025-04-13/16:15:06		Raw Data Validation Complete!!
+2025-04-13/16:15:06		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/16:15:06		Table creation Completed!!
+2025-04-13/16:15:06		Insertion of Data into Table started!!!!
+2025-04-13/16:15:06		Insertion in Table completed!!!
+2025-04-13/16:15:06		Deleting Good Data Folder!!!
+2025-04-13/16:15:06		Good_Data folder deleted!!!
+2025-04-13/16:15:06		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/16:15:06		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/16:15:06		Validation Operation completed!!
+2025-04-13/16:15:06		Extracting csv file from table
+2025-04-13/16:15:06		Start of Prediction
+2025-04-13/16:15:06		Entered the get_data method of the Data_Getter class
+2025-04-13/16:15:06		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/16:15:06		Entered the is_null_present method of the Preprocessor class
+2025-04-13/16:15:06		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/16:15:06		Entered the load_model method of the File_Operation class
+2025-04-13/16:15:06		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/16:15:06		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/16:15:06		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/16:15:06		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/16:15:06		Error occured while running the prediction!! Error:: 
+2025-04-13/16:22:22		Start of Validation on files for prediction!!
+2025-04-13/16:22:22		Raw Data Validation Complete!!
+2025-04-13/16:22:22		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/16:22:22		Table creation Completed!!
+2025-04-13/16:22:22		Insertion of Data into Table started!!!!
+2025-04-13/16:22:22		Insertion in Table completed!!!
+2025-04-13/16:22:22		Deleting Good Data Folder!!!
+2025-04-13/16:22:22		Good_Data folder deleted!!!
+2025-04-13/16:22:22		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/16:22:22		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/16:22:22		Validation Operation completed!!
+2025-04-13/16:22:22		Extracting csv file from table
+2025-04-13/16:22:22		Start of Prediction
+2025-04-13/16:22:22		Entered the get_data method of the Data_Getter class
+2025-04-13/16:22:22		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/16:22:22		Entered the is_null_present method of the Preprocessor class
+2025-04-13/16:22:22		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/16:22:22		Entered the load_model method of the File_Operation class
+2025-04-13/16:22:22		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/16:22:22		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/16:22:22		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/16:22:22		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/16:22:22		Error occured while running the prediction!! Error:: 
+2025-04-13/17:50:00		Start of Validation on files for prediction!!
+2025-04-13/17:50:00		Raw Data Validation Complete!!
+2025-04-13/17:50:00		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/17:50:00		Table creation Completed!!
+2025-04-13/17:50:00		Insertion of Data into Table started!!!!
+2025-04-13/17:50:00		Insertion in Table completed!!!
+2025-04-13/17:50:00		Deleting Good Data Folder!!!
+2025-04-13/17:50:00		Good_Data folder deleted!!!
+2025-04-13/17:50:00		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/17:50:00		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/17:50:00		Validation Operation completed!!
+2025-04-13/17:50:00		Extracting csv file from table
+2025-04-13/17:50:00		Start of Prediction
+2025-04-13/17:50:00		Entered the get_data method of the Data_Getter class
+2025-04-13/17:50:00		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/17:50:00		Entered the is_null_present method of the Preprocessor class
+2025-04-13/17:50:00		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/17:50:00		Entered the load_model method of the File_Operation class
+2025-04-13/17:50:00		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/17:50:00		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/17:50:00		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/17:50:00		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/17:50:00		Error occured while running the prediction!! Error:: 
+2025-04-13/17:53:06		Start of Validation on files for prediction!!
+2025-04-13/17:53:06		Raw Data Validation Complete!!
+2025-04-13/17:53:06		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/17:53:06		Table creation Completed!!
+2025-04-13/17:53:06		Insertion of Data into Table started!!!!
+2025-04-13/17:53:06		Insertion in Table completed!!!
+2025-04-13/17:53:06		Deleting Good Data Folder!!!
+2025-04-13/17:53:06		Good_Data folder deleted!!!
+2025-04-13/17:53:06		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/17:53:06		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/17:53:06		Validation Operation completed!!
+2025-04-13/17:53:06		Extracting csv file from table
+2025-04-13/17:53:06		Start of Prediction
+2025-04-13/17:53:06		Entered the get_data method of the Data_Getter class
+2025-04-13/17:53:06		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/17:53:06		Entered the is_null_present method of the Preprocessor class
+2025-04-13/17:53:06		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/17:53:06		Entered the load_model method of the File_Operation class
+2025-04-13/17:53:06		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/17:53:06		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/17:53:06		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/17:53:06		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/17:53:06		Error occured while running the prediction!! Error:: 
+2025-04-13/17:53:08		Start of Validation on files for prediction!!
+2025-04-13/17:53:08		Raw Data Validation Complete!!
+2025-04-13/17:53:08		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/17:53:08		Table creation Completed!!
+2025-04-13/17:53:08		Insertion of Data into Table started!!!!
+2025-04-13/17:53:09		Insertion in Table completed!!!
+2025-04-13/17:53:09		Deleting Good Data Folder!!!
+2025-04-13/17:53:09		Good_Data folder deleted!!!
+2025-04-13/17:53:09		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/17:53:09		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/17:53:09		Validation Operation completed!!
+2025-04-13/17:53:09		Extracting csv file from table
+2025-04-13/17:53:09		Start of Prediction
+2025-04-13/17:53:09		Entered the get_data method of the Data_Getter class
+2025-04-13/17:53:09		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/17:53:09		Entered the is_null_present method of the Preprocessor class
+2025-04-13/17:53:09		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/17:53:09		Entered the load_model method of the File_Operation class
+2025-04-13/17:53:09		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/17:53:09		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/17:53:09		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/17:53:09		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/17:53:09		Error occured while running the prediction!! Error:: 
+2025-04-13/17:59:06		Start of Validation on files for prediction!!
+2025-04-13/17:59:06		Raw Data Validation Complete!!
+2025-04-13/17:59:06		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/17:59:06		Table creation Completed!!
+2025-04-13/17:59:06		Insertion of Data into Table started!!!!
+2025-04-13/17:59:06		Insertion in Table completed!!!
+2025-04-13/17:59:06		Deleting Good Data Folder!!!
+2025-04-13/17:59:06		Good_Data folder deleted!!!
+2025-04-13/17:59:06		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/17:59:06		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/17:59:06		Validation Operation completed!!
+2025-04-13/17:59:06		Extracting csv file from table
+2025-04-13/17:59:06		Start of Prediction
+2025-04-13/17:59:06		Entered the get_data method of the Data_Getter class
+2025-04-13/17:59:06		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/17:59:06		Entered the is_null_present method of the Preprocessor class
+2025-04-13/17:59:06		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/17:59:06		Entered the load_model method of the File_Operation class
+2025-04-13/17:59:06		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/17:59:06		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/17:59:06		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/17:59:06		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/17:59:06		Error occured while running the prediction!! Error:: 
+2025-04-13/17:59:07		Start of Validation on files for prediction!!
+2025-04-13/17:59:07		Raw Data Validation Complete!!
+2025-04-13/17:59:07		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/17:59:07		Table creation Completed!!
+2025-04-13/17:59:07		Insertion of Data into Table started!!!!
+2025-04-13/17:59:08		Insertion in Table completed!!!
+2025-04-13/17:59:08		Deleting Good Data Folder!!!
+2025-04-13/17:59:08		Good_Data folder deleted!!!
+2025-04-13/17:59:08		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/17:59:08		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/17:59:08		Validation Operation completed!!
+2025-04-13/17:59:08		Extracting csv file from table
+2025-04-13/17:59:08		Start of Prediction
+2025-04-13/17:59:08		Entered the get_data method of the Data_Getter class
+2025-04-13/17:59:08		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/17:59:08		Entered the is_null_present method of the Preprocessor class
+2025-04-13/17:59:08		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/17:59:08		Entered the load_model method of the File_Operation class
+2025-04-13/17:59:08		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/17:59:08		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/17:59:08		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/17:59:08		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/17:59:08		Error occured while running the prediction!! Error:: 
+2025-04-13/17:59:10		Start of Validation on files for prediction!!
+2025-04-13/17:59:10		Raw Data Validation Complete!!
+2025-04-13/17:59:10		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/17:59:10		Table creation Completed!!
+2025-04-13/17:59:10		Insertion of Data into Table started!!!!
+2025-04-13/17:59:10		Insertion in Table completed!!!
+2025-04-13/17:59:10		Deleting Good Data Folder!!!
+2025-04-13/17:59:10		Good_Data folder deleted!!!
+2025-04-13/17:59:10		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/17:59:10		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/17:59:10		Validation Operation completed!!
+2025-04-13/17:59:10		Extracting csv file from table
+2025-04-13/17:59:10		Start of Prediction
+2025-04-13/17:59:10		Entered the get_data method of the Data_Getter class
+2025-04-13/17:59:10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/17:59:10		Entered the is_null_present method of the Preprocessor class
+2025-04-13/17:59:10		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/17:59:10		Entered the load_model method of the File_Operation class
+2025-04-13/17:59:10		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/17:59:10		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/17:59:10		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/17:59:10		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/17:59:10		Error occured while running the prediction!! Error:: 
+2025-04-13/18:03:23		Start of Validation on files for prediction!!
+2025-04-13/18:03:23		Raw Data Validation Complete!!
+2025-04-13/18:03:23		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/18:03:23		Table creation Completed!!
+2025-04-13/18:03:23		Insertion of Data into Table started!!!!
+2025-04-13/18:03:23		Insertion in Table completed!!!
+2025-04-13/18:03:23		Deleting Good Data Folder!!!
+2025-04-13/18:03:23		Good_Data folder deleted!!!
+2025-04-13/18:03:23		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/18:03:23		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/18:03:23		Validation Operation completed!!
+2025-04-13/18:03:23		Extracting csv file from table
+2025-04-13/18:03:23		Start of Prediction
+2025-04-13/18:03:23		Entered the get_data method of the Data_Getter class
+2025-04-13/18:03:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/18:03:23		Entered the is_null_present method of the Preprocessor class
+2025-04-13/18:03:23		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/18:03:23		Entered the load_model method of the File_Operation class
+2025-04-13/18:03:23		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/18:03:23		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/18:03:23		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/18:03:23		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/18:03:23		Error occured while running the prediction!! Error:: 
+2025-04-13/18:10:24		Start of Validation on files for prediction!!
+2025-04-13/18:10:24		Raw Data Validation Complete!!
+2025-04-13/18:10:24		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/18:10:24		Table creation Completed!!
+2025-04-13/18:10:24		Insertion of Data into Table started!!!!
+2025-04-13/18:10:24		Insertion in Table completed!!!
+2025-04-13/18:10:24		Deleting Good Data Folder!!!
+2025-04-13/18:10:24		Good_Data folder deleted!!!
+2025-04-13/18:10:24		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/18:10:24		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/18:10:24		Validation Operation completed!!
+2025-04-13/18:10:24		Extracting csv file from table
+2025-04-13/18:10:24		Start of Prediction
+2025-04-13/18:10:24		Entered the get_data method of the Data_Getter class
+2025-04-13/18:10:24		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/18:10:24		Entered the is_null_present method of the Preprocessor class
+2025-04-13/18:10:24		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/18:10:24		Entered the load_model method of the File_Operation class
+2025-04-13/18:10:24		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/18:10:24		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/18:10:24		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/18:10:24		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/18:10:24		Error occured while running the prediction!! Error:: 
+2025-04-13/18:11:10		Start of Validation on files for prediction!!
+2025-04-13/18:11:10		Raw Data Validation Complete!!
+2025-04-13/18:11:10		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/18:11:10		Table creation Completed!!
+2025-04-13/18:11:10		Insertion of Data into Table started!!!!
+2025-04-13/18:11:10		Insertion in Table completed!!!
+2025-04-13/18:11:10		Deleting Good Data Folder!!!
+2025-04-13/18:11:10		Good_Data folder deleted!!!
+2025-04-13/18:11:10		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/18:11:10		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/18:11:10		Validation Operation completed!!
+2025-04-13/18:11:10		Extracting csv file from table
+2025-04-13/18:11:10		Start of Prediction
+2025-04-13/18:11:10		Entered the get_data method of the Data_Getter class
+2025-04-13/18:11:10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/18:11:10		Entered the is_null_present method of the Preprocessor class
+2025-04-13/18:11:10		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/18:11:10		Entered the load_model method of the File_Operation class
+2025-04-13/18:11:10		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/18:11:10		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/18:11:10		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/18:11:10		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/18:11:10		Error occured while running the prediction!! Error:: 
+2025-04-13/18:11:10		Start of Validation on files for prediction!!
+2025-04-13/18:11:10		Raw Data Validation Complete!!
+2025-04-13/18:11:10		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/18:11:10		Table creation Completed!!
+2025-04-13/18:11:10		Insertion of Data into Table started!!!!
+2025-04-13/18:11:11		Insertion in Table completed!!!
+2025-04-13/18:11:11		Deleting Good Data Folder!!!
+2025-04-13/18:11:11		Good_Data folder deleted!!!
+2025-04-13/18:11:11		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/18:11:11		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/18:11:11		Validation Operation completed!!
+2025-04-13/18:11:11		Extracting csv file from table
+2025-04-13/18:11:11		Start of Prediction
+2025-04-13/18:11:11		Entered the get_data method of the Data_Getter class
+2025-04-13/18:11:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/18:11:11		Entered the is_null_present method of the Preprocessor class
+2025-04-13/18:11:11		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/18:11:11		Entered the load_model method of the File_Operation class
+2025-04-13/18:11:11		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/18:11:11		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/18:11:11		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/18:11:11		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/18:11:11		Error occured while running the prediction!! Error:: 
+2025-04-13/18:11:38		Start of Validation on files for prediction!!
+2025-04-13/18:11:38		Raw Data Validation Complete!!
+2025-04-13/18:11:38		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/18:11:38		Table creation Completed!!
+2025-04-13/18:11:38		Insertion of Data into Table started!!!!
+2025-04-13/18:11:38		Insertion in Table completed!!!
+2025-04-13/18:11:38		Deleting Good Data Folder!!!
+2025-04-13/18:11:38		Good_Data folder deleted!!!
+2025-04-13/18:11:38		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/18:11:38		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/18:11:38		Validation Operation completed!!
+2025-04-13/18:11:38		Extracting csv file from table
+2025-04-13/18:11:38		Start of Prediction
+2025-04-13/18:11:38		Entered the get_data method of the Data_Getter class
+2025-04-13/18:11:38		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/18:11:38		Entered the is_null_present method of the Preprocessor class
+2025-04-13/18:11:38		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/18:11:38		Entered the load_model method of the File_Operation class
+2025-04-13/18:11:38		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/18:11:38		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/18:11:38		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/18:11:38		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/18:11:38		Error occured while running the prediction!! Error:: 
+2025-04-13/18:12:44		Start of Validation on files for prediction!!
+2025-04-13/18:12:44		Raw Data Validation Complete!!
+2025-04-13/18:12:44		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/18:12:44		Table creation Completed!!
+2025-04-13/18:12:44		Insertion of Data into Table started!!!!
+2025-04-13/18:12:44		Insertion in Table completed!!!
+2025-04-13/18:12:44		Deleting Good Data Folder!!!
+2025-04-13/18:12:44		Good_Data folder deleted!!!
+2025-04-13/18:12:44		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/18:12:44		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/18:12:44		Validation Operation completed!!
+2025-04-13/18:12:44		Extracting csv file from table
+2025-04-13/18:12:44		Start of Prediction
+2025-04-13/18:12:44		Entered the get_data method of the Data_Getter class
+2025-04-13/18:12:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/18:12:44		Entered the is_null_present method of the Preprocessor class
+2025-04-13/18:12:44		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/18:12:44		Entered the load_model method of the File_Operation class
+2025-04-13/18:12:44		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/18:12:44		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/18:12:44		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/18:12:44		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/18:12:44		Error occured while running the prediction!! Error:: 
+2025-04-13/18:18:34		Start of Validation on files for prediction!!
+2025-04-13/18:18:34		Raw Data Validation Complete!!
+2025-04-13/18:18:34		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/18:18:34		Table creation Completed!!
+2025-04-13/18:18:34		Insertion of Data into Table started!!!!
+2025-04-13/18:18:34		Insertion in Table completed!!!
+2025-04-13/18:18:34		Deleting Good Data Folder!!!
+2025-04-13/18:18:34		Good_Data folder deleted!!!
+2025-04-13/18:18:34		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/18:18:34		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/18:18:34		Validation Operation completed!!
+2025-04-13/18:18:34		Extracting csv file from table
+2025-04-13/18:18:34		Start of Prediction
+2025-04-13/18:18:34		Entered the get_data method of the Data_Getter class
+2025-04-13/18:18:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/18:18:34		Entered the is_null_present method of the Preprocessor class
+2025-04-13/18:18:34		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/18:18:34		Entered the load_model method of the File_Operation class
+2025-04-13/18:18:34		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/18:18:34		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/18:18:34		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/18:18:34		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/18:18:34		Error occured while running the prediction!! Error:: 
+2025-04-13/18:38:08		Start of Validation on files for prediction!!
+2025-04-13/18:38:08		Raw Data Validation Complete!!
+2025-04-13/18:38:08		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/18:38:08		Table creation Completed!!
+2025-04-13/18:38:08		Insertion of Data into Table started!!!!
+2025-04-13/18:38:08		Insertion in Table completed!!!
+2025-04-13/18:38:08		Deleting Good Data Folder!!!
+2025-04-13/18:38:08		Good_Data folder deleted!!!
+2025-04-13/18:38:08		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/18:38:08		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/18:38:08		Validation Operation completed!!
+2025-04-13/18:38:08		Extracting csv file from table
+2025-04-13/18:38:08		Start of Prediction
+2025-04-13/18:38:08		Entered the get_data method of the Data_Getter class
+2025-04-13/18:38:08		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/18:38:08		Entered the is_null_present method of the Preprocessor class
+2025-04-13/18:38:08		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/18:38:08		Entered the load_model method of the File_Operation class
+2025-04-13/18:38:08		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/18:38:08		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/18:38:08		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/18:38:08		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/18:38:08		Error occured while running the prediction!! Error:: 
+2025-04-13/18:38:11		Start of Validation on files for prediction!!
+2025-04-13/18:38:11		Raw Data Validation Complete!!
+2025-04-13/18:38:11		Creating Prediction_Database and tables on the basis of given schema!!!
+2025-04-13/18:38:11		Table creation Completed!!
+2025-04-13/18:38:11		Insertion of Data into Table started!!!!
+2025-04-13/18:38:11		Insertion in Table completed!!!
+2025-04-13/18:38:11		Deleting Good Data Folder!!!
+2025-04-13/18:38:11		Good_Data folder deleted!!!
+2025-04-13/18:38:11		Moving bad files to Archive and deleting Bad_Data folder!!!
+2025-04-13/18:38:11		Bad files moved to archive!! Bad folder Deleted!!
+2025-04-13/18:38:11		Validation Operation completed!!
+2025-04-13/18:38:11		Extracting csv file from table
+2025-04-13/18:38:11		Start of Prediction
+2025-04-13/18:38:11		Entered the get_data method of the Data_Getter class
+2025-04-13/18:38:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/18:38:11		Entered the is_null_present method of the Preprocessor class
+2025-04-13/18:38:11		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/18:38:11		Entered the load_model method of the File_Operation class
+2025-04-13/18:38:11		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2025-04-13/18:38:11		Entered the find_correct_model_file method of the File_Operation class
+2025-04-13/18:38:11		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2025-04-13/18:38:11		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2025-04-13/18:38:11		Error occured while running the prediction!! Error:: 

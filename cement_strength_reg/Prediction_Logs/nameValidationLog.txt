@@ -1,0 +1,102 @@
+2020-02-19/16:48:29		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2020-02-19/16:48:35		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2020-02-19/16:48:38		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2020-02-19/16:59:09		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2020-02-19/16:59:09		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2020-02-19/16:59:09		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/12:03:09		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/12:03:09		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/12:03:09		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/12:14:39		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/12:14:39		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/12:14:39		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/12:14:40		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/12:14:40		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/12:14:40		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/12:14:40		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/12:14:40		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/12:14:40		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/12:14:41		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/12:14:41		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/12:14:41		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/12:14:41		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/12:14:41		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/12:14:41		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/12:14:47		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/12:14:47		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/12:14:47		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/12:14:48		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/12:14:48		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/12:14:48		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/12:18:16		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/12:18:16		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/12:18:16		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/12:31:13		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/12:31:13		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/12:31:13		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/12:51:18		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/12:51:18		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/12:51:18		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/12:51:21		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/12:51:21		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/12:51:21		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/12:51:22		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/12:51:22		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/12:51:22		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/14:27:14		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/14:27:14		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/14:27:14		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/16:14:50		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/16:14:50		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/16:14:50		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/16:15:06		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/16:15:06		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/16:15:06		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/16:22:22		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/16:22:22		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/16:22:22		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/17:50:00		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/17:50:00		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/17:50:00		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/17:53:06		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/17:53:06		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/17:53:06		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/17:53:08		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/17:53:08		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/17:53:08		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/17:59:06		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/17:59:06		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/17:59:06		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/17:59:07		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/17:59:07		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/17:59:07		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/17:59:10		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/17:59:10		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/17:59:10		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/18:03:23		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/18:03:23		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/18:03:23		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/18:10:24		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/18:10:24		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/18:10:24		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/18:11:10		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/18:11:10		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/18:11:10		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/18:11:10		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/18:11:10		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/18:11:10		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/18:11:38		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/18:11:38		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/18:11:38		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/18:12:44		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/18:12:44		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/18:12:44		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/18:18:34		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/18:18:34		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/18:18:34		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/18:38:08		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/18:38:08		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/18:38:08		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv
+2025-04-13/18:38:11		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120000.csv
+2025-04-13/18:38:11		Valid File name!! File moved to GoodRaw Folder :: cement_strength_08012020_120021.csv
+2025-04-13/18:38:11		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_1200.csv

@@ -1,0 +1,384 @@
+2020-02-19/16:32:47		Start of Training
+2020-02-19/16:32:47		Entered the get_data method of the Data_Getter class
+2020-02-19/16:32:47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-19/16:32:47		Entered the is_null_present method of the Preprocessor class
+2020-02-19/16:32:47		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-19/16:32:56		Entered the separate_label_feature method of the Preprocessor class
+2020-02-19/16:32:56		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-02-19/16:32:56		Entered the elbow_plot method of the KMeansClustering class
+2020-02-19/16:32:57		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2020-02-19/16:32:57		Entered the create_clusters method of the KMeansClustering class
+2020-02-19/16:32:57		Entered the save_model method of the File_Operation class
+2020-02-19/16:32:57		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-02-19/16:32:57		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2020-02-19/16:32:59		Entered the get_best_model method of the Model_Finder class
+2020-02-19/16:33:02		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:33:02		LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': True}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:33:20		Entered the RandomForestReg method of the Model_Finder class
+2020-02-19/16:33:38		RandomForestReg best params: {'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2020-02-19/16:34:15		Entered the save_model method of the File_Operation class
+2020-02-19/16:34:15		Model File RandomForestRegressor2 saved. Exited the save_model method of the Model_Finder class
+2020-02-19/16:34:17		Entered the get_best_model method of the Model_Finder class
+2020-02-19/16:34:18		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:34:19		LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:34:24		Entered the RandomForestReg method of the Model_Finder class
+2020-02-19/16:34:43		RandomForestReg best params: {'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 4, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2020-02-19/16:34:57		Entered the save_model method of the File_Operation class
+2020-02-19/16:34:57		Model File RandomForestRegressor1 saved. Exited the save_model method of the Model_Finder class
+2020-02-19/16:34:58		Entered the get_best_model method of the Model_Finder class
+2020-02-19/16:35:00		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:35:00		LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:35:04		Entered the RandomForestReg method of the Model_Finder class
+2020-02-19/16:35:22		RandomForestReg best params: {'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 4, 'n_estimators': 10}. Exited the RandomForestReg method of the Model_Finder class
+2020-02-19/16:35:39		Entered the save_model method of the File_Operation class
+2020-02-19/16:35:39		Model File LinearRegression3 saved. Exited the save_model method of the Model_Finder class
+2020-02-19/16:35:42		Entered the get_best_model method of the Model_Finder class
+2020-02-19/16:35:42		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:35:43		LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:35:47		Entered the RandomForestReg method of the Model_Finder class
+2020-02-19/16:36:06		RandomForestReg best params: {'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 4, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2020-02-19/16:36:34		Entered the save_model method of the File_Operation class
+2020-02-19/16:36:35		Model File RandomForestRegressor0 saved. Exited the save_model method of the Model_Finder class
+2020-02-19/16:36:35		Successful End of Training
+2020-02-19/16:57:19		Start of Training
+2020-02-19/16:57:19		Entered the get_data method of the Data_Getter class
+2020-02-19/16:57:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-19/16:57:19		Entered the is_null_present method of the Preprocessor class
+2020-02-19/16:57:19		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-19/16:57:19		Entered the separate_label_feature method of the Preprocessor class
+2020-02-19/16:57:19		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-02-19/16:57:19		Entered the elbow_plot method of the KMeansClustering class
+2020-02-19/16:57:20		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2020-02-19/16:57:20		Entered the create_clusters method of the KMeansClustering class
+2020-02-19/16:57:20		Entered the save_model method of the File_Operation class
+2020-02-19/16:57:20		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-02-19/16:57:20		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2020-02-19/16:57:20		Entered the get_best_model method of the Model_Finder class
+2020-02-19/16:57:20		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:57:20		LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': True}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:57:20		Entered the RandomForestReg method of the Model_Finder class
+2020-02-19/16:57:25		RandomForestReg best params: {'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 20}. Exited the RandomForestReg method of the Model_Finder class
+2020-02-19/16:57:25		Entered the save_model method of the File_Operation class
+2020-02-19/16:57:25		Model File RandomForestRegressor2 saved. Exited the save_model method of the Model_Finder class
+2020-02-19/16:57:25		Entered the get_best_model method of the Model_Finder class
+2020-02-19/16:57:25		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:57:25		LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:57:25		Entered the RandomForestReg method of the Model_Finder class
+2020-02-19/16:57:31		RandomForestReg best params: {'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2020-02-19/16:57:31		Entered the save_model method of the File_Operation class
+2020-02-19/16:57:31		Model File RandomForestRegressor1 saved. Exited the save_model method of the Model_Finder class
+2020-02-19/16:57:31		Entered the get_best_model method of the Model_Finder class
+2020-02-19/16:57:31		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:57:31		LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:57:31		Entered the RandomForestReg method of the Model_Finder class
+2020-02-19/16:57:37		RandomForestReg best params: {'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 4, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2020-02-19/16:57:37		Entered the save_model method of the File_Operation class
+2020-02-19/16:57:37		Model File LinearRegression3 saved. Exited the save_model method of the Model_Finder class
+2020-02-19/16:57:37		Entered the get_best_model method of the Model_Finder class
+2020-02-19/16:57:37		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:57:37		LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2020-02-19/16:57:37		Entered the RandomForestReg method of the Model_Finder class
+2020-02-19/16:57:43		RandomForestReg best params: {'bootstrap': False, 'max_features': 'sqrt', 'min_samples_split': 2, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2020-02-19/16:57:43		Entered the save_model method of the File_Operation class
+2020-02-19/16:57:43		Model File RandomForestRegressor0 saved. Exited the save_model method of the Model_Finder class
+2020-02-19/16:57:43		Successful End of Training
+2025-04-13/13:17:55		Start of Training
+2025-04-13/13:17:55		Entered the get_data method of the Data_Getter class
+2025-04-13/13:17:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/13:17:55		Entered the is_null_present method of the Preprocessor class
+2025-04-13/13:17:55		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/13:17:55		Entered the separate_label_feature method of the Preprocessor class
+2025-04-13/13:17:55		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2025-04-13/13:17:55		Entered the elbow_plot method of the KMeansClustering class
+2025-04-13/13:17:55		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2025-04-13/13:17:55		Entered the create_clusters method of the KMeansClustering class
+2025-04-13/13:17:55		Entered the save_model method of the File_Operation class
+2025-04-13/13:17:55		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2025-04-13/13:17:55		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2025-04-13/13:17:55		Entered the get_best_model method of the Model_Finder class
+2025-04-13/13:17:55		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/13:17:55		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2025-04-13/13:17:55		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/13:17:55		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2025-04-13/13:17:55		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2025-04-13/13:17:55		Unsuccessful End of Training
+2025-04-13/13:18:05		Start of Training
+2025-04-13/13:18:05		Entered the get_data method of the Data_Getter class
+2025-04-13/13:18:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/13:18:05		Entered the is_null_present method of the Preprocessor class
+2025-04-13/13:18:05		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/13:18:05		Entered the separate_label_feature method of the Preprocessor class
+2025-04-13/13:18:05		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2025-04-13/13:18:05		Entered the elbow_plot method of the KMeansClustering class
+2025-04-13/13:18:05		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2025-04-13/13:18:05		Entered the create_clusters method of the KMeansClustering class
+2025-04-13/13:18:05		Entered the save_model method of the File_Operation class
+2025-04-13/13:18:05		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2025-04-13/13:18:05		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2025-04-13/13:18:05		Entered the get_best_model method of the Model_Finder class
+2025-04-13/13:18:05		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/13:18:05		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2025-04-13/13:18:05		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/13:18:05		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2025-04-13/13:18:05		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2025-04-13/13:18:05		Unsuccessful End of Training
+2025-04-13/14:03:47		Start of Training
+2025-04-13/14:03:47		Entered the get_data method of the Data_Getter class
+2025-04-13/14:03:47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/14:03:47		Entered the is_null_present method of the Preprocessor class
+2025-04-13/14:03:47		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/14:03:47		Entered the separate_label_feature method of the Preprocessor class
+2025-04-13/14:03:47		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2025-04-13/14:03:47		Entered the elbow_plot method of the KMeansClustering class
+2025-04-13/14:03:47		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2025-04-13/14:03:47		Entered the create_clusters method of the KMeansClustering class
+2025-04-13/14:03:47		Entered the save_model method of the File_Operation class
+2025-04-13/14:03:47		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2025-04-13/14:03:47		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2025-04-13/14:03:47		Entered the get_best_model method of the Model_Finder class
+2025-04-13/14:03:47		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/14:03:47		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2025-04-13/14:03:47		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/14:03:47		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2025-04-13/14:03:47		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2025-04-13/14:03:47		Unsuccessful End of Training
+2025-04-13/14:03:49		Start of Training
+2025-04-13/14:03:49		Entered the get_data method of the Data_Getter class
+2025-04-13/14:03:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/14:03:49		Entered the is_null_present method of the Preprocessor class
+2025-04-13/14:03:49		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/14:03:49		Entered the separate_label_feature method of the Preprocessor class
+2025-04-13/14:03:49		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2025-04-13/14:03:49		Entered the elbow_plot method of the KMeansClustering class
+2025-04-13/14:03:49		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2025-04-13/14:03:49		Entered the create_clusters method of the KMeansClustering class
+2025-04-13/14:03:49		Entered the save_model method of the File_Operation class
+2025-04-13/14:03:49		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2025-04-13/14:03:49		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2025-04-13/14:03:49		Entered the get_best_model method of the Model_Finder class
+2025-04-13/14:03:49		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/14:03:49		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2025-04-13/14:03:49		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/14:03:49		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2025-04-13/14:03:49		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2025-04-13/14:03:49		Unsuccessful End of Training
+2025-04-13/14:22:48		Start of Training
+2025-04-13/14:22:48		Entered the get_data method of the Data_Getter class
+2025-04-13/14:22:48		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/14:22:48		Entered the is_null_present method of the Preprocessor class
+2025-04-13/14:22:48		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/14:22:48		Entered the separate_label_feature method of the Preprocessor class
+2025-04-13/14:22:48		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2025-04-13/14:22:48		Entered the elbow_plot method of the KMeansClustering class
+2025-04-13/14:22:48		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2025-04-13/14:22:48		Entered the create_clusters method of the KMeansClustering class
+2025-04-13/14:22:48		Entered the save_model method of the File_Operation class
+2025-04-13/14:22:48		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2025-04-13/14:22:48		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2025-04-13/14:22:48		Entered the get_best_model method of the Model_Finder class
+2025-04-13/14:22:48		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/14:22:48		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2025-04-13/14:22:48		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/14:22:48		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2025-04-13/14:22:48		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2025-04-13/14:22:48		Unsuccessful End of Training
+2025-04-13/14:22:50		Start of Training
+2025-04-13/14:22:50		Entered the get_data method of the Data_Getter class
+2025-04-13/14:22:50		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/14:22:50		Entered the is_null_present method of the Preprocessor class
+2025-04-13/14:22:50		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/14:22:50		Entered the separate_label_feature method of the Preprocessor class
+2025-04-13/14:22:50		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2025-04-13/14:22:50		Entered the elbow_plot method of the KMeansClustering class
+2025-04-13/14:22:50		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2025-04-13/14:22:50		Entered the create_clusters method of the KMeansClustering class
+2025-04-13/14:22:50		Entered the save_model method of the File_Operation class
+2025-04-13/14:22:50		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2025-04-13/14:22:50		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2025-04-13/14:22:50		Entered the get_best_model method of the Model_Finder class
+2025-04-13/14:22:50		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/14:22:50		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2025-04-13/14:22:50		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/14:22:50		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2025-04-13/14:22:50		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2025-04-13/14:22:50		Unsuccessful End of Training
+2025-04-13/15:49:08		Start of Training
+2025-04-13/15:49:08		Entered the get_data method of the Data_Getter class
+2025-04-13/15:49:08		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/15:49:08		Entered the is_null_present method of the Preprocessor class
+2025-04-13/15:49:08		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/15:49:08		Entered the separate_label_feature method of the Preprocessor class
+2025-04-13/15:49:08		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2025-04-13/15:49:08		Entered the elbow_plot method of the KMeansClustering class
+2025-04-13/15:49:08		The optimum number of clusters is: 5 . Exited the elbow_plot method of the KMeansClustering class
+2025-04-13/15:49:08		Entered the create_clusters method of the KMeansClustering class
+2025-04-13/15:49:08		Entered the save_model method of the File_Operation class
+2025-04-13/15:49:08		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2025-04-13/15:49:08		succesfully created 5clusters. Exited the create_clusters method of the KMeansClustering class
+2025-04-13/15:49:08		Entered the get_best_model method of the Model_Finder class
+2025-04-13/15:49:08		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/15:49:08		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2025-04-13/15:49:08		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/15:49:08		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2025-04-13/15:49:08		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2025-04-13/15:49:08		Unsuccessful End of Training
+2025-04-13/16:22:04		Start of Training
+2025-04-13/16:22:04		Entered the get_data method of the Data_Getter class
+2025-04-13/16:22:04		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/16:22:04		Entered the is_null_present method of the Preprocessor class
+2025-04-13/16:22:04		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/16:22:04		Entered the separate_label_feature method of the Preprocessor class
+2025-04-13/16:22:04		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2025-04-13/16:22:04		Entered the elbow_plot method of the KMeansClustering class
+2025-04-13/16:22:05		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2025-04-13/16:22:05		Entered the create_clusters method of the KMeansClustering class
+2025-04-13/16:22:05		Entered the save_model method of the File_Operation class
+2025-04-13/16:22:05		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2025-04-13/16:22:05		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2025-04-13/16:22:05		Entered the get_best_model method of the Model_Finder class
+2025-04-13/16:22:05		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/16:22:05		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2025-04-13/16:22:05		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/16:22:05		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2025-04-13/16:22:05		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2025-04-13/16:22:05		Unsuccessful End of Training
+2025-04-13/17:50:21		Start of Training
+2025-04-13/17:50:21		Entered the get_data method of the Data_Getter class
+2025-04-13/17:50:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/17:50:21		Entered the is_null_present method of the Preprocessor class
+2025-04-13/17:50:21		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/17:50:21		Entered the separate_label_feature method of the Preprocessor class
+2025-04-13/17:50:21		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2025-04-13/17:50:21		Entered the elbow_plot method of the KMeansClustering class
+2025-04-13/17:50:22		The optimum number of clusters is: 5 . Exited the elbow_plot method of the KMeansClustering class
+2025-04-13/17:50:22		Entered the create_clusters method of the KMeansClustering class
+2025-04-13/17:50:22		Entered the save_model method of the File_Operation class
+2025-04-13/17:50:22		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2025-04-13/17:50:22		succesfully created 5clusters. Exited the create_clusters method of the KMeansClustering class
+2025-04-13/17:50:22		Entered the get_best_model method of the Model_Finder class
+2025-04-13/17:50:22		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/17:50:22		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2025-04-13/17:50:22		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/17:50:22		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2025-04-13/17:50:22		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2025-04-13/17:50:22		Unsuccessful End of Training
+2025-04-13/17:53:13		Start of Training
+2025-04-13/17:53:13		Entered the get_data method of the Data_Getter class
+2025-04-13/17:53:13		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/17:53:13		Entered the is_null_present method of the Preprocessor class
+2025-04-13/17:53:13		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/17:53:13		Entered the separate_label_feature method of the Preprocessor class
+2025-04-13/17:53:13		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2025-04-13/17:53:13		Entered the elbow_plot method of the KMeansClustering class
+2025-04-13/17:53:13		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2025-04-13/17:53:13		Entered the create_clusters method of the KMeansClustering class
+2025-04-13/17:53:13		Entered the save_model method of the File_Operation class
+2025-04-13/17:53:13		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2025-04-13/17:53:13		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2025-04-13/17:53:13		Entered the get_best_model method of the Model_Finder class
+2025-04-13/17:53:13		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/17:53:13		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2025-04-13/17:53:13		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/17:53:13		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2025-04-13/17:53:13		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2025-04-13/17:53:13		Unsuccessful End of Training
+2025-04-13/18:03:31		Start of Training
+2025-04-13/18:03:31		Entered the get_data method of the Data_Getter class
+2025-04-13/18:03:31		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/18:03:31		Entered the is_null_present method of the Preprocessor class
+2025-04-13/18:03:31		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/18:03:31		Entered the separate_label_feature method of the Preprocessor class
+2025-04-13/18:03:31		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2025-04-13/18:03:31		Entered the elbow_plot method of the KMeansClustering class
+2025-04-13/18:03:32		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2025-04-13/18:03:32		Entered the create_clusters method of the KMeansClustering class
+2025-04-13/18:03:32		Entered the save_model method of the File_Operation class
+2025-04-13/18:03:32		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2025-04-13/18:03:32		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2025-04-13/18:03:32		Entered the get_best_model method of the Model_Finder class
+2025-04-13/18:03:32		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/18:03:32		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2025-04-13/18:03:32		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/18:03:32		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2025-04-13/18:03:32		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2025-04-13/18:03:32		Unsuccessful End of Training
+2025-04-13/18:25:10		Start of Training
+2025-04-13/18:25:10		Entered the get_data method of the Data_Getter class
+2025-04-13/18:25:10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/18:25:10		Entered the is_null_present method of the Preprocessor class
+2025-04-13/18:25:10		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/18:25:10		Entered the separate_label_feature method of the Preprocessor class
+2025-04-13/18:25:10		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2025-04-13/18:25:10		Entered the elbow_plot method of the KMeansClustering class
+2025-04-13/18:25:10		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2025-04-13/18:25:10		Entered the create_clusters method of the KMeansClustering class
+2025-04-13/18:25:10		Entered the save_model method of the File_Operation class
+2025-04-13/18:25:10		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2025-04-13/18:25:10		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2025-04-13/18:25:10		Entered the get_best_model method of the Model_Finder class
+2025-04-13/18:25:10		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/18:25:10		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2025-04-13/18:25:10		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/18:25:10		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2025-04-13/18:25:10		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2025-04-13/18:25:10		Unsuccessful End of Training
+2025-04-13/18:35:37		Start of Training
+2025-04-13/18:35:37		Entered the get_data method of the Data_Getter class
+2025-04-13/18:35:37		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/18:35:37		Entered the is_null_present method of the Preprocessor class
+2025-04-13/18:35:37		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/18:35:37		Entered the separate_label_feature method of the Preprocessor class
+2025-04-13/18:35:37		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2025-04-13/18:35:37		Entered the elbow_plot method of the KMeansClustering class
+2025-04-13/18:35:37		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2025-04-13/18:35:37		Entered the create_clusters method of the KMeansClustering class
+2025-04-13/18:35:37		Entered the save_model method of the File_Operation class
+2025-04-13/18:35:37		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2025-04-13/18:35:37		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2025-04-13/18:35:37		Entered the get_best_model method of the Model_Finder class
+2025-04-13/18:35:37		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/18:35:37		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2025-04-13/18:35:37		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/18:35:37		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2025-04-13/18:35:37		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2025-04-13/18:35:37		Unsuccessful End of Training
+2025-04-13/18:43:07		Start of Training
+2025-04-13/18:43:07		Entered the get_data method of the Data_Getter class
+2025-04-13/18:43:07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/18:43:07		Entered the is_null_present method of the Preprocessor class
+2025-04-13/18:43:07		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/18:43:07		Entered the separate_label_feature method of the Preprocessor class
+2025-04-13/18:43:07		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2025-04-13/18:43:07		Entered the elbow_plot method of the KMeansClustering class
+2025-04-13/18:43:07		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2025-04-13/18:43:07		Entered the create_clusters method of the KMeansClustering class
+2025-04-13/18:43:07		Entered the save_model method of the File_Operation class
+2025-04-13/18:43:07		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2025-04-13/18:43:07		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2025-04-13/18:43:07		Entered the get_best_model method of the Model_Finder class
+2025-04-13/18:43:07		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/18:43:07		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2025-04-13/18:43:07		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/18:43:07		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2025-04-13/18:43:07		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2025-04-13/18:43:07		Unsuccessful End of Training
+2025-04-13/18:43:10		Start of Training
+2025-04-13/18:43:10		Entered the get_data method of the Data_Getter class
+2025-04-13/18:43:10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2025-04-13/18:43:10		Entered the is_null_present method of the Preprocessor class
+2025-04-13/18:43:10		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2025-04-13/18:43:10		Entered the separate_label_feature method of the Preprocessor class
+2025-04-13/18:43:10		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2025-04-13/18:43:10		Entered the elbow_plot method of the KMeansClustering class
+2025-04-13/18:43:11		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2025-04-13/18:43:11		Entered the create_clusters method of the KMeansClustering class
+2025-04-13/18:43:11		Entered the save_model method of the File_Operation class
+2025-04-13/18:43:11		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2025-04-13/18:43:11		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2025-04-13/18:43:11		Entered the get_best_model method of the Model_Finder class
+2025-04-13/18:43:11		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/18:43:11		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2025-04-13/18:43:11		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2025-04-13/18:43:11		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2025-04-13/18:43:11		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2025-04-13/18:43:11		Unsuccessful End of Training
