@@ -7,9 +7,7 @@ from sklearn.linear_model import LinearRegression
 class Model_Finder:
     """
                 This class shall  be used to find the model with best accuracy and AUC score.
-                Written By: iNeuron Intelligence
-                Version: 1.0
-                Revisions: None
+              
 
                 """
 
@@ -22,15 +20,10 @@ class Model_Finder:
 
     def get_best_params_for_Random_Forest_Regressor(self, train_x, train_y):
         """
-                                                Method Name: get_best_params_for_Random_Forest_Regressor
+                                               
                                                 Description: get the parameters for Random_Forest_Regressor Algorithm which give the best accuracy.
                                                              Use Hyper Parameter Tuning.
-                                                Output: The model with the best parameters
-                                                On Failure: Raise Exception
-
-                                                Written By: iNeuron Intelligence
-                                                Version: 1.0
-                                                Revisions: None
+                                     
 
                                         """
         self.logger_object.log(self.file_object,
@@ -75,15 +68,10 @@ class Model_Finder:
     def get_best_params_for_linearReg(self,train_x,train_y):
 
         """
-                                        Method Name: get_best_params_for_linearReg
+                                       
                                         Description: get the parameters for LinearReg Algorithm which give the best accuracy.
                                                      Use Hyper Parameter Tuning.
-                                        Output: The model with the best parameters
-                                        On Failure: Raise Exception
-
-                                        Written By: iNeuron Intelligence
-                                        Version: 1.0
-                                        Revisions: None
+                            
 
                                 """
         self.logger_object.log(self.file_object,
@@ -123,14 +111,11 @@ class Model_Finder:
 
     def get_best_model(self,train_x,train_y,test_x,test_y):
         """
-                                                Method Name: get_best_model
+                                              
                                                 Description: Find out the Model which has the best AUC score.
                                                 Output: The best model name and the model object
                                                 On Failure: Raise Exception
 
-                                                Written By: iNeuron Intelligence
-                                                Version: 1.0
-                                                Revisions: None
 
                                         """
         self.logger_object.log(self.file_object,
