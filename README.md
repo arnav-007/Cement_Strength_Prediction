@@ -3,7 +3,7 @@
 # 📌 Project Description
  ## Key Features
 
-This is a **Flask-based model** that triggers model training and predictions on structured CSV data files. It incorporates:
+This is a **Flask-based machine learning model** that triggers model training and predictions on structured CSV data files. It incorporates:
 
 - Utilizes Python libraries such as:
   - 📦 `NumPy`, `Pandas` for data handling
@@ -12,6 +12,7 @@ This is a **Flask-based model** that triggers model training and predictions on 
   - 📊 `KMeans` and `KneeLocator` for data clustering
   - 🧠 `RandomForestClassifier` and `LogisticRegression` for modeling
 - Includes robust validation and preprocessing pipelines before training.
+- **SQLite** as the database.
 
 ---
 
@@ -73,16 +74,16 @@ This project mimics a **production-grade machine learning pipeline** suitable fo
 ## 📁 Project Structure
 
 ```
-├── app.py # 🚀 Main Flask application (API endpoints for training and prediction)
-├── training_Model.py # 🧠 Contains logic for training models on clustered data
-├── training_validation_insert.py # ✅ Validates and inserts training data files
-├── Training_Batch_File/ # 📂 Directory to store incoming training data files
-├── prediction_validation_insert.py # ✅ Validates and inserts prediction data files
-├── Prediction_Batch_File/ # 📂 Directory to store incoming prediction data files
-├── predictionModel.py # 🤖 Executes the prediction pipeline using saved models
-├── templates/ # 🖼️ HTML templates for the web UI (Flask Jinja2 views)
-├── requirements.txt # 📦 List of required Python dependencies
-└── README.md # 📘 Project documentation (you’re here!)
+├── app.py #  Main Flask application (API endpoints for training and prediction)
+├── training_Model.py #  Contains logic for training models on clustered data
+├── training_validation_insert.py #  Validates and inserts training data files
+├── Training_Batch_File/ #  Directory to store incoming training data files
+├── prediction_validation_insert.py #  Validates and inserts prediction data files
+├── Prediction_Batch_File/ #  Directory to store incoming prediction data files
+├── predictionModel.py #  Executes the prediction pipeline using saved models
+├── templates/ # 🖼 HTML templates for the web UI (Flask Jinja2 views)
+├── requirements.txt #  List of required Python dependencies
+└── README.md #  Project documentation (you’re here!)
 ```
 
 ---
