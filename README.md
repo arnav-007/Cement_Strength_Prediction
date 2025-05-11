@@ -112,6 +112,12 @@ This project mimics a **production-grade machine learning pipeline** suitable fo
 
 ## 📡 API Endpoint
 
+### Launch Screen
+
+**Sample Output Screenshot**:
+
+![Training Output](./assets/launch_page.png)
+
 ### `POST /train`
 
 **Request Body:**
@@ -124,6 +130,11 @@ This project mimics a **production-grade machine learning pipeline** suitable fo
 **Response:**
 - ✅ Success: `"Training completed successfully."`
 - ❌ Error: `"Error occurred! <Exception Details>"`
+
+**Sample Output Screenshot**:
+
+![Training Output](./assets/train_response.png.jpg)
+
 
 ---
 
@@ -139,6 +150,11 @@ This project mimics a **production-grade machine learning pipeline** suitable fo
 
 **Response**:
 - `200 OK` with message and prediction file output stored in the `Prediction_Output_File/` directory.
+
+**Sample Output Screenshot**:
+
+![Training Output](./assets/prediction_response.jpg)
+
 
 ---
 
