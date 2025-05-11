@@ -178,9 +178,6 @@ source venv/bin/activate
 ```
 
 ### 3. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
 
 ### 4. Run the Flask Server
 ```bash
@@ -191,59 +188,4 @@ Server will run on: `http://127.0.0.1:5001`
 
 ---
 
-## 📬 Example Request Using cURL
 
-```bash
-curl --location 'http://127.0.0.1:5001/train' \
---header 'Content-Type: application/json' \
---data '{
-  "folderPath": "Training_Batch_Files"
-}'
-```
-
----
-
-## ⚠️ Common Issues
-
-- **Mac Compatibility**: Use `n_jobs=1` for parallel training to avoid multiprocessing issues on macOS.
-- **Path Errors**: Always use absolute paths or make sure your working directory is correct.
-- **KeyError**: Ensure the JSON body has `"folderPath"` key.
-
----
-
-## 🤖 Model Training Notes
-
-- Uses `GridSearchCV` for hyperparameter tuning
-- Trains models like Linear Regression
-- Stores best model based on cross-validation score
-- Future plan: add model persistence with `joblib` and prediction endpoint
-
----
-
-## 📦 Requirements
-
-- Flask
-- pandas
-- scikit-learn
-- numpy
-- flask-cors
-
-You can install them with:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 🙌 Contributions
-
-Pull requests are welcome! Feel free to open issues or suggest improvements.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
