@@ -127,6 +127,21 @@ This project mimics a **production-grade machine learning pipeline** suitable fo
 
 ---
 
+### 📈 `POST /predict`
+**Description**: Performs prediction using a trained model on input CSV data.
+
+**Request Body**:
+```json
+{
+  "filepath": "Prediction_Batch_Files/inputFile.csv"
+}
+```
+
+**Response**:
+- `200 OK` with message and prediction file output stored in the `Prediction_Output_File/` directory.
+
+---
+
 ## 🔧 How to Run
 
 ### 1. Clone the Repository
