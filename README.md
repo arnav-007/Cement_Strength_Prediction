@@ -133,7 +133,7 @@ This project mimics a **production-grade machine learning pipeline** suitable fo
 
 **Sample Output Screenshot**:
 
-![Training Output](./assets/train_response.png.jpg)
+![Training Output](./assets/train_response.jpg)
 
 
 ---
