@@ -1,4 +1,4 @@
-# 🧠 ML Model Training API with Flask
+# 🧠 Cement Strength Prediction: ML model training
 
 # 📌 Project Description
  ## Key Features
